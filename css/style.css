@@ -2,9 +2,11 @@
 * Created on: Sep 2022
 * This CSS file defines the style for index.html ICS2O-Assignment-1-HTML-CSS
 */
+
 .mdl-layout__header-row {
   align-items: center;
   justify-content: center;
+  text-align: center;
 }
 
 .mdl-layout__content {
@@ -14,18 +16,16 @@
 }
 
 body {
-  background-color: white;
+  background-color: #7eaeec;
 }
 
 h1 {
-  background-color: white;
   color: #00002e;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
-  background-color: white;
   color: #00002e;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
